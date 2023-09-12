@@ -1,4 +1,4 @@
-<img width=100% scr="https://capsule-render.vercel.app/api?type=waving&color=ff91a48height=1208section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Hi%20everybody!&style=&animation=fadeIn&fontAlignY=36&fontSize=65" />
 
-### Hi everyone!
 My name is Mário, I live in Brazil and I'am a computer engineering student.
+ 
