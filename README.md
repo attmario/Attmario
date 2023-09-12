@@ -10,10 +10,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=attmario&bg_color=fdfcfc&color=000000&line=000000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # About Me:
-My name is Mário, I live in Brazil and I'am computer engineering student.
+My name is Mário Carvalho <br>
+i'm 18 years old <br>
+i live in Brazil (Recife,PE) <br>
+i seek for my first intership in my life
 
 # Day By Day Technology:
 <img aling="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img aling="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=110&section=header"/>
 
