@@ -9,7 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=attmario&bg_color=fdfcfc&color=000000&line=000000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## About Me:
+# About Me:
 My name is Mário, I live in Brazil and I'am computer engineering student.
 
 # Day By Day Technology:
